@@ -109,7 +109,7 @@ import os
 
 # 設定年份範圍
 START_YEAR = 2024  # 開始年
-END_YEAR = 2025  # 結束年
+END_YEAR = 2050  # 結束年
 
 # 輸出選項 0關閉 1開啟 ，預設輸出csv跟txt可匯入給AI套用。
 SHOW_CONSOLE = 0  # 直接顯示在終端機
@@ -289,6 +289,7 @@ def main():
 # 執行程式
 if __name__ == "__main__":
     main()
+
 
 ```
 
